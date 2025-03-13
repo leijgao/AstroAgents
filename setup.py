@@ -9,8 +9,6 @@ with open("requirements.txt", "r", encoding="utf-8") as f:
 setup(
     name="astroagents",
     version="0.1.0",
-    author="AstroAgents Team",
-    author_email="your.email@example.com",
     description="Multi-Agent AI for Hypothesis Generation from Mass Spectrometry Data",
     long_description=long_description,
     long_description_content_type="text/markdown",

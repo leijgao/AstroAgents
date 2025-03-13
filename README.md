@@ -41,19 +41,6 @@ An astrobiology expert evaluated the novelty and plausibility of more than a hun
 pip install -r requirements.txt
 ```
 
-2. API Keys:
-   - Anthropic API key (for Claude model)
-   - Google API key (for Gemini model)
-   - Semantic Scholar API key
-
-3. Configuration:
-   - Copy `config.example.ini` to `config.ini`
-   - Add your API keys to the configuration file
-```bash
-cp config.example.ini config.ini
-# Edit config.ini with your API keys
-```
-
 ### Paper Context Preparation
 
 Before running AstroAgents, you need to prepare paper context from research papers:
@@ -78,12 +65,6 @@ Basic usage:
 
 ```bash
 python AstroAgents.py --llm_model claude --iterations 10 --anthropic_api_key YOUR_ANTHROPIC_API_KEY --semantic_scholar_api_key YOUR_SEMANTIC_SCHOLAR_API_KEY
-```
-
-You can also use the configuration file instead of passing API keys directly:
-
-```bash
-python AstroAgents.py --llm_model claude --iterations 10
 ```
 
 Command-line arguments:
