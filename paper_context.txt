@@ -1,0 +1,1 @@
+For copyright reasons, we have omitted paper context. Please use extract_text.py to generate this file.
