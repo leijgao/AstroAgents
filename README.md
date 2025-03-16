@@ -107,5 +107,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - The AstroAgents project website: [https://astroagents.github.io/](https://astroagents.github.io/)
-- The Anthropic Claude and Google Gemini teams for their language models
 - Semantic Scholar for their API access
