@@ -1,7 +1,7 @@
 # AstroAgents: Multi-Agent AI for Hypothesis Generation from Mass Spectrometry Data
 
 
-[![Paper](https://img.shields.io/badge/Website-astroagents.github.io-orange)](https://arxiv.org/abs/2503.23170)
+[![Website](https://img.shields.io/badge/Paper-arXiv-orange)](https://arxiv.org/abs/2503.23170)
 [![Website](https://img.shields.io/badge/Website-astroagents.github.io-blue)](https://astroagents.github.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
