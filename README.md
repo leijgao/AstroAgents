@@ -1,5 +1,7 @@
 # AstroAgents: Multi-Agent AI for Hypothesis Generation from Mass Spectrometry Data
 
+
+[![Paper](https://img.shields.io/badge/Website-astroagents.github.io-orange)](https://arxiv.org/abs/2503.23170)
 [![Website](https://img.shields.io/badge/Website-astroagents.github.io-blue)](https://astroagents.github.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
@@ -97,7 +99,15 @@ pymupdf4llm>=0.1.0
 If you use AstroAgents in your research, please cite our paper:
 
 ```
-[Citation information will be added upon publication]
+@misc{saeedi2025astroagentsmultiagentaihypothesis,
+      title={AstroAgents: A Multi-Agent AI for Hypothesis Generation from Mass Spectrometry Data}, 
+      author={Daniel Saeedi and Denise Buckner and Jose C. Aponte and Amirali Aghazadeh},
+      year={2025},
+      eprint={2503.23170},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2503.23170}, 
+}
 ```
 
 ## License
