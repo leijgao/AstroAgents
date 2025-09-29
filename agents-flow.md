@@ -12,7 +12,6 @@ The AstroAgents system employs six specialized AI agents that work collaborative
 flowchart TD
     A[Input Data<br/>Mass Spectrometry Data] --> B[Data Analyzer Agent]
     B --> |Analysis Results| C[Planner Agent]
-    B --> |Critic Feedback| B
     
     C --> |Agent 1 Instructions| D[Astrobio Scientist 1]
     C --> |Agent 2 Instructions| E[Astrobio Scientist 2] 
